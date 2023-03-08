@@ -1,7 +1,7 @@
 ### Hi! I'm
 # Ekaterina Kim
 
-<image src="/images/photo_2023.jpg">
+<image src="\images\IMG_3118.JPG" alt="Photo" width="150">
 
 - <im.work-k@mail.ru>
 - +7(999)245-86-09
